@@ -13,4 +13,14 @@
 
 5.🏠 Dashboard/Welcome Page (dashboard.html)
 
-                                                            
+                                                               🎯 Purpose:
+This app is meant to demonstrate a clean and responsive UI for common authentication screens. While it does not perform real authentication, it lays the foundation for front-end development and can later be connected to a backend service or AP
+                    
+                                                          Key Characteristics:
+1.✅ Static HTML – no dynamic rendering
+
+2.🎨 CSS Styling – simple and responsive
+
+3.⚡ Vanilla JavaScript – handles basic form interactions
+
+4.🖥️ No Frameworks – no React, no Node.js, no backend logic
