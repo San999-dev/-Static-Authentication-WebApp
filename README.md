@@ -23,4 +23,8 @@ This app is meant to demonstrate a clean and responsive UI for common authentica
 
 3.⚡ Vanilla JavaScript – handles basic form interactions
 
-4.🖥️ No Frameworks – no React, no Node.js, no backend logic
+4.🖥️ No Frameworks – no React, no Node.js, no backend logic 
+
+                                                                    
+                                                                  Link
+  https://github.com/San999-dev/-Static-Authentication-WebApp.git
