@@ -7,11 +7,4 @@
 ❓ Forgot Password Page (forgot-password.html)
 🔄 Change Password Page (change-password.html)
 🏠 Dashboard/Welcome Page (dashboard.html)
-                                                              🎯 Purpose:
-This app is meant to demonstrate a clean and responsive UI for common authentication screens. While it does not perform real authentication, it lays the foundation for front-end development and can later be connected to a backend service or API.
-                                                        💡 Key Characteristics:
-✅ Static HTML – no dynamic rendering
-🎨 CSS Styling – simple and responsive
-⚡ Vanilla JavaScript – handles basic form interactions
-🖥️ No Frameworks – no React, no Node.js, no backend logic
-
+                                                            
