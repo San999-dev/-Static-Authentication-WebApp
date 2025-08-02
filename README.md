@@ -2,9 +2,9 @@
  This project is a purely static front-end authentication interface, created using HTML, CSS, and Vanilla JavaScript. It simulates basic authentication flows without using any backend, frameworks, or libraries.
 
                                                             ⚙️ What It Includes:
-✅ Login Page (index.html)
-🆕 Register Page (register.html)
-❓ Forgot Password Page (forgot-password.html)
-🔄 Change Password Page (change-password.html)
-🏠 Dashboard/Welcome Page (dashboard.html)
+1.✅ Login Page (index.html)
+2.🆕 Register Page (register.html)
+3.❓ Forgot Password Page (forgot-password.html)
+4.🔄 Change Password Page (change-password.html)
+5.🏠 Dashboard/Welcome Page (dashboard.html)
                                                             
