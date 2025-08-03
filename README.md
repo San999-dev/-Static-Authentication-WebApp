@@ -27,4 +27,4 @@ This app is meant to demonstrate a clean and responsive UI for common authentica
 
                                                                     
                                                                   Link
-  https://github.com/San999-dev/-Static-Authentication-WebApp.git
+  https://static-authentication-web-app.vercel.app/?authuser=0
